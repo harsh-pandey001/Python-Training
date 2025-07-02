@@ -4,6 +4,8 @@ Topics: Variables, conditionals, loops, functions, input/output, basic error han
 Features:
 - Addition, subtraction, multiplication, division
 - Option to continue or exit
+
+
 2. To-Do List (Console-based)
 Topics: Lists, file I/O, functions, dictionaries
 
@@ -11,30 +13,41 @@ Features:
 - Add / remove tasks
 - Save to a file
 - Load from file on restart
+
+
 3. Contact Book (using JSON file)
 Topics: Dictionaries, file handling, JSON module, exception handling
 
 Features:
 - Add/edit/delete/search contacts
 - Save/load using JSON
+
+
 4. Number Guessing Game
 Topics: Random module, loops, conditionals
 
 Features:
 - User guesses a number
 - Hints: higher/lower
+
+
 5. Weather App (with API)
 Topics: requests module, API calls, working with JSON
+
 
 Use OpenWeatherMap API or similar
 - Input city
 - Get live weather info
+
+
 6. Expense Tracker (CSV-based)
 Topics: CSV module, file handling, data processing
 
 Features:
 - Add income/expenses
 - View monthly summary
+
+
 7. Rock Paper Scissors (User vs Computer)
 Topics: Random module, control flow, loops
 
